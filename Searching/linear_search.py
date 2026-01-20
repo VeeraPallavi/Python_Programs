@@ -20,4 +20,3 @@ if result != -1:
     print(f"Element Found at index {result}")
 else:
     print("Element not Found")
-
